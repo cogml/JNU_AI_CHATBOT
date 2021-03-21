@@ -1,4 +1,4 @@
-package com.example.test02_jnu_chatbot;
+package com.example.test02_jnu_chatbot; //여긴 본인이 설정한 파일명으로 바꿔주기
 
 import android.content.Context;
 
